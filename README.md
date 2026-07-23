@@ -8,7 +8,7 @@ The notebook follows a complete deep learning workflow, including data preproces
 
 ## Projects
 
-### 🏠 California Housing Price Prediction
+### California Housing Price Prediction
 
 A fully connected neural network is trained on the **California Housing** dataset to predict median house prices.
 
@@ -20,7 +20,7 @@ The workflow includes:
 - Model training and validation
 - Regression performance evaluation
 
-### 🖼️ CIFAR-10 Image Classification
+### CIFAR-10 Image Classification
 
 A Convolutional Neural Network (CNN) is developed using the **CIFAR-10** dataset to classify images into ten categories.
 
