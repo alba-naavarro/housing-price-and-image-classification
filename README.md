@@ -6,7 +6,7 @@ This repository contains a **Deep Learning** project developed in **Python** usi
 
 The notebook follows a complete deep learning workflow, including data preprocessing, model architecture design, training, hyperparameter selection, and performance evaluation.
 
-## 🚀 Projects
+## Projects
 
 ### 🏠 California Housing Price Prediction
 
@@ -32,7 +32,12 @@ The project includes:
 - Performance evaluation
 - Prediction on unseen images
 
-## 🛠️ Technologies
+## Datasets
+
+- [California Housing Dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
+- [CIFAR-10](https://cave.cs.toronto.edu/kriz/cifar.html)
+
+## Technologies
 
 - Python
 - TensorFlow
@@ -43,7 +48,7 @@ The project includes:
 - Scikit-learn
 - Jupyter Notebook
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository and install the required dependencies:
 
@@ -51,7 +56,7 @@ Clone the repository and install the required dependencies:
 pip install -r requirements.txt
 ```
 
-## 📊 Deep Learning Concepts
+## Deep Learning Concepts
 
 The notebook demonstrates the application of several deep learning concepts, including:
 
@@ -63,7 +68,3 @@ The notebook demonstrates the application of several deep learning concepts, inc
 - Model evaluation
 - Regression and classification tasks
 
-## 📂 Datasets
-
-- [California Housing Dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
-- [CIFAR-10](https://cave.cs.toronto.edu/kriz/cifar.html)
