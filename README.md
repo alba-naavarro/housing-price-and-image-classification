@@ -65,5 +65,5 @@ The notebook demonstrates the application of several deep learning concepts, inc
 
 ## 📂 Datasets
 
-- California Housing Dataset
-- CIFAR-10
+- [California Housing Dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
+- [CIFAR-10](https://cave.cs.toronto.edu/kriz/cifar.html)
