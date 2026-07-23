@@ -43,6 +43,14 @@ The project includes:
 - Scikit-learn
 - Jupyter Notebook
 
+## ⚙️ Installation
+
+Clone the repository and install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 📊 Deep Learning Concepts
 
 The notebook demonstrates the application of several deep learning concepts, including:
